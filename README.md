@@ -3,3 +3,9 @@ Solutions for assignment for the Server side development course with NodeJS - Co
 
 # Course Link🔗
 https://www.coursera.org/learn/server-side-javascript-with-nodejs
+
+# Contributed
+
+[Mehul Sharma](https://github.com/SharmaMehul2902)
+
+[Avinash Anand](https://github.com/AvinashAnand02)
