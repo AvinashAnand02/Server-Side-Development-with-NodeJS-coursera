@@ -1,0 +1,21 @@
+{
+  "name": "sprint2-practice2-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "lodash": "^4.17.21",
+    "mocha": "^9.1.3"
+  }
+}

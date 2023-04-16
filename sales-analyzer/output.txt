@@ -1,0 +1,1 @@
+[{"date":"20/11/18","customer_id":"58534","product_category":"514","payment_method":"credit","value [USD]":"251.83","time_on_site [Minutes]":"26.4","clicks_in_site":"16"}]

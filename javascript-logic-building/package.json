@@ -1,0 +1,20 @@
+{
+  "name": "bytelearning-js-exercise-14",
+  "version": "1.0.0",
+  "description": "Working with Promises in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://gitlab-cts.stackroute.in/Somsubhra.m/bytelearning-js-exercise-14"
+  },
+  "author": "Somsubhra Mukherjee",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4",
+    "sinon": "^7.3.2"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "name": "banking-application",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "clean": "rm -rf dist",
+    "test": "mocha"
+  },
+  "author": "Sagorika Majumdar",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^9.2.1"
+  }
+}
